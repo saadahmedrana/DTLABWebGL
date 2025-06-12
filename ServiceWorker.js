@@ -1,9 +1,9 @@
 const cacheName = "Aalto Univeristy DTLab-Saad's Project-0.1.0";
 const contentToCache = [
-    "Build/DevBuild.loader.js",
-    "Build/DevBuild.framework.js",
-    "Build/DevBuild.data",
-    "Build/DevBuild.wasm",
+    "Build/FINAL BUILD.loader.js",
+    "Build/FINAL BUILD.framework.js",
+    "Build/FINAL BUILD.data",
+    "Build/FINAL BUILD.wasm",
     "TemplateData/style.css"
 
 ];
